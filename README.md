@@ -5,3 +5,4 @@ To do vaccine
 
 * Codiga - Static Analysis ![Quality](https://api.codiga.io/project/32218/score/svg) 
                            ![Quality](https://api.codiga.io/project/32218/status/svg)
+* [![C/C++ CI](https://github.com/amithsnair11/StepIN_VaccineRegist/actions/workflows/c-build.yml/badge.svg)](https://github.com/amithsnair11/StepIN_VaccineRegist/actions/workflows/c-build.yml) 
