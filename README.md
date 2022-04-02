@@ -5,7 +5,7 @@ To do vaccine
 
 * Codiga - Static Analysis ![Quality](https://api.codiga.io/project/32218/score/svg) 
                            ![Quality](https://api.codiga.io/project/32218/status/svg)
-* [![C/C++ CI](https://github.com/dhivya0/M1_VaccineRegistration/blob/b84a62982e42c6b720e222ac5928f998e43fee30/.github/workflows/c-cpp.yml/badge.svg)](https://github.com/dhivya0/M1_VaccineRegistration/blob/main/.github/workflows/c-cpp.yml) 
+* [![ Build CI - Linux](https://github.com/dhivya0/M1_VaccineRegistration/blob/main/.github/workflows/c-cpp.yml/badge.svg)](https://github.com/dhivya0/M1_VaccineRegistration/blob/main/.github/workflows/c-cpp.yml) 
 
 
 ## Aim
